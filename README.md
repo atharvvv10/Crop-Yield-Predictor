@@ -43,5 +43,3 @@ This is a comprehensive project combining concepts from **Data Science and Big D
 
 ---
 
-## 📂 Project Structure
-
