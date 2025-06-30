@@ -8,29 +8,27 @@ This is a comprehensive project combining concepts from **Data Science and Big D
 
 - ✅ **DSBDA (Data Science & Big Data Analytics)**
   - Data collection, preprocessing, and visualization.
-  - Big data handling through cloud-based distributed systems.
-  - Predictive analytics based on historical and real-time data.
+  - Applied machine learning for crop yield prediction based on historical data.
+  - Feature engineering and evaluation using scikit-learn.
 
 - ✅ **Artificial Intelligence (AI)**
-  - Use of **machine learning algorithms** for yield prediction.
+  - Implemented ML algorithms (e.g., Decision Tree, Random Forest) for agricultural yield forecasting.
   - Smart recommendation system based on AI-driven insights.
-  - Continuous model training for improving accuracy.
+  - Built a prediction pipeline using supervised learning.
 
 - ✅ **Cloud Computing (CC)**
-  - Hosting services on **cloud platforms** for scalability and reliability.
-  - Cloud-based ML model deployment and API integration.
-  - Use of **distributed processing and storage** for real-time prediction.
+  - Deployed the frontend of the crop yield prediction app on Netlify, enabling browser-accessible real-time interaction.
+  - Utilized cloud-based hosting to ensure availability, scalability, and a seamless user experience without local dependencies.
+  - Enabled real-time ML predictions through a web interface by integrating frontend and backend logic in a cloud-supported architecture.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML / CSS / JavaScript** (Frontend)
-- **Python (Flask)** for backend services
-- **Scikit-learn** for machine learning
-- **Render / Heroku / Netlify / GitHub Pages** for deployment
-- **Cloud Services** for model hosting and data processing
-- **CSV dataset** for demonstration
+- **HTML / CSS / JavaScript / TypeScript (Frontend and backend logic)
+- **Scikit-learn for machine learning (model development phase)
+- **Netlify for frontend deployment
+- **CSV dataset for demonstration
 
 ---
 
